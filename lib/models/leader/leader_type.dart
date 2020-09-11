@@ -1,0 +1,4 @@
+enum LeaderType {
+  LearningLeader,
+  SkillIQLeader,
+}
